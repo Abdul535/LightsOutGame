@@ -7,6 +7,6 @@ Lights Out is a logic/puzzle game, played on a gird of individual lights, which 
 
 We are working on couple of things:
 
-- Adding Easy,Medium,Hard Levels
+- Adding Easy, Medium, and Hard Levels
 - Adding a timer when game starts
 - Share the time of completion on socials
